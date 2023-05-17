@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.6.12+commit.27d51765"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"ICO AFFILIATE/Copy_staker3lv.sol": "SafeMath"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"ICO AFFILIATE/Copy_staker3lv.sol": {
+			"keccak256": "0x8bf8243ed5a7c81140388c223360842c88525c2994435b096773922aaac260c4",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://695dba010189c9e1120ca74ab52eadbbf5fbcc94c4d858eb86e8af927b8f107a",
+				"dweb:/ipfs/QmaVyR6om2rRUpmEcjdxPxGNY73LQNGCru2eyBaDyXWt8s"
+			]
+		}
+	},
+	"version": 1
+}
